@@ -1,1 +1,1 @@
-# Using data from Kaggle, trained model to predict if a patient has or does not have cardiovascular disease. Currently at 70% accuracy, trying to improve. 
+# Using data from Kaggle, trained model to predict if a patient has or does not have cardiovascular disease. Used 75% of data as training data, 25% as testing. Currently at 70% accuracy, trying to improve. 
