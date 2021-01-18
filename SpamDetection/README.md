@@ -1,0 +1,1 @@
+In this notebook, I trained a model to detect spam emails given the subject line with a 99% accuracy on the test data using a Naive Bayes Classifier (classifier based on Bayes theorem for probabilities)
