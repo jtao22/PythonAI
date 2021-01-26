@@ -1,0 +1,1 @@
+This notebook consists of a model I developed to determine whether someone is at risk for a stroke based on various characteristics. I used logistic regression, and achieved a 95% accuracy on the test data.
