@@ -1,1 +1,3 @@
- Using data from Kaggle, trained model to predict if a patient has or does not have cardiovascular disease. Used 75% of data as training data, 25% as testing. Currently at 70% accuracy, trying to improve. 
+ The first cvd notebook is one of my earlier attempts at creating a mildly successful architecture
+ 
+ The second one is a more updated version using a new dataset, and I trained/tested three separate models (Logistic Regression, Random Forest Classifier, Decision Tree). I was decently happy with the ~85% accuracy I got on all three given how small the dataset was.
