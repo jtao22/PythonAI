@@ -4,4 +4,6 @@ The sentiment analysis notebook is a bit of my experimentation with Natural Lang
 
 In the second version of the stock price predictor, I trained a model on data concerning the Tesla stock using three variations of Support Vector Regression. The model isn't very robust but it was good practice.
 
+The third version of the close price predictor combines the SVR models as well as the pyplot graphing to visualize how well the model predicts prices. 
+
 The stock movement classifier goes a little bit more into depth, but is a classification model as opposed to a regression model. By creating functions to calculate Simple Moving Average, Exponential Moving Average, Moving Average Convergence Divergence, Relative Strength Index, I attempt to provide the architecture with features that will help determine if the stock prices will rise or fall each day. THe architecture ended up being quite inaccurate, especially for a classification model but nonetheless it was a fun project.
