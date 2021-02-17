@@ -1,0 +1,1 @@
+This notebook contains a model trained on a IBM sample dataset to predict the customer retention of Telcom. I used logistic regression, but various other approaches are possible and perhaps more robust. 
