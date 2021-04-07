@@ -1,0 +1,1 @@
+https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones/code processed data from Kaggle, model uses data retrieved from a smartphone to predict the activity of the user at that instant. 94% accuracy.
