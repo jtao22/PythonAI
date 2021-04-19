@@ -1,0 +1,1 @@
+Predict the life expectancy of various countries given different pieces of data. Didn't take the name of the countries or the time into account, but linear regression model was still relatively accurate. 
